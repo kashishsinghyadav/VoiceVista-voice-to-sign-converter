@@ -117,7 +117,7 @@ def func():
                                print(" ")
                         plt.close()
 while 1:
-  image   = "signlang.png"
+  image   = "kashish.png"
   msg="HEARING IMPAIRMENT ASSISTANT"
   choices = ["Live Voice","All Done!"] 
   reply   = buttonbox(msg,image=image,choices=choices)
