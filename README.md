@@ -50,3 +50,13 @@ respective GIFs of the Phrase.
 
 **Due to considerable time required in learning the Sign Language, people find it difficult to communicate with these specially abled people, creating a communication gap. Thus the Audio to Sign Language converter is important and significant because it helps in providing information access and services to deaf people in Indian sign language and develops a scalable project which can be extended to capture whole vocabulary of ISL through manual and non-manual signs. It also can be developed as a desktop or mobile application to enable specially abled people to communicate easily and effectively with others.**
 
+
+## 𝐫𝐮𝐧 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐦𝐚𝐢𝐧.𝐩𝐲 𝐭𝐡𝐢𝐬 𝐬𝐡𝐨𝐮𝐥𝐝 𝐝𝐢𝐬𝐩𝐥𝐚𝐲  𝐚𝐧𝐝 𝐭𝐡𝐞𝐧 𝐜𝐥𝐢𝐜𝐤 '𝐤𝐮𝐜𝐡 𝐭𝐨 𝐛𝐨𝐥o' 𝐭𝐨 𝐬𝐩𝐞𝐚𝐤 
+
+![Screenshot (105)](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/assets/117498422/b6a88f97-443f-4448-a65c-4251d4542067)
+
+
+** 𝐬𝐩𝐞𝐚𝐤 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐲𝐨𝐮 𝐠𝐢𝐟 𝐨𝐫 𝐬𝐢𝐠𝐧 𝐥𝐚𝐧𝐠 𝐭𝐨𝐰𝐡𝐢𝐜𝐡 𝐣𝐮𝐬𝐭𝐢𝐟𝐲 𝐲𝐨𝐮𝐫 𝐰𝐨𝐫𝐝𝐬
+
+
+![Screenshot (106)](https://github.com/kashishsinghyadav/VoiceVista-voice-to-sign-converter/assets/117498422/0c5d0de8-b11d-442a-87d5-548e895750a4)
