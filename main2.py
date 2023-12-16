@@ -119,7 +119,7 @@ def func():
 while 1:
   image   = "kashish.png"
   msg="HEARING IMPAIRMENT ASSISTANT"
-  choices = ["Live Voice","All Done!"] 
+  choices = ["Kuch to bolo","Nhi bolna"] 
   reply   = buttonbox(msg,image=image,choices=choices)
   if reply ==choices[0]:
         func()
